@@ -1,0 +1,15 @@
+{
+  "name": "ftpapp",
+  "version": "1.0.0",
+  "description": "ftp file pullin app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "ssh2-sftp-client": "^6.0.0"
+  }
+}
